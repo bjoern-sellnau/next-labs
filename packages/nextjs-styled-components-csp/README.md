@@ -1,0 +1,1 @@
+nextjs-styled-components-csp
